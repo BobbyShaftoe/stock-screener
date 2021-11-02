@@ -1,0 +1,680 @@
+Index,Code,Company,Market Cap,Share Price,Change
+1,BHP.AX,BHP Group Limited,133.98B,44.72,0.00%
+2,FMG.AX,Fortescue Metals Group,72.94B,23.83,0.00%
+3,RIO.AX,Rio Tinto,44.07B,117.35,0.00%
+4,NCM.AX,Newcrest Mining,21.41B,25.96,0.00%
+5,JHX.AX,James Hardie,18.09B,40.70,0.00%
+6,AMC.AX,Amcor,12.84B,14.54,0.00%
+7,S32.AX,South32,12.53B,2.59,0.00%
+8,NST.AX,Northern Star Resources,9.11B,12.06,0.00%
+9,BSL.AX,BlueScope Steel,8.63B,17.00,0.00%
+10,EVN.AX,Evolution Mining,8.05B,4.62,0.00%
+11,MIN.AX,Mineral Resources Limited,6.93B,35.97,0.00%
+12,OZL.AX,OZ Minerals,6.42B,19.24,0.00%
+13,ORI.AX,Orica,6.27B,15.30,0.00%
+14,BLD.AX,Boral,6.21B,5.04,0.00%
+15,SAR.AX,Saracen Mineral Holdings,5.27B,4.69,0.00%
+16,IPL.AX,Incitec Pivot,5.17B,2.64,0.00%
+17,FBU.AX,Fletcher Building Limited,4.95B,5.90,0.00%
+18,IGO.AX,IGO Limited,4.94B,6.46,0.00%
+19,AWC.AX,Alumina,4.86B,1.685,0.00%
+20,LYC.AX,Lynas Rare Earths Limited,4.51B,5.03,0.00%
+21,NIC.AX,Nickel Mines Limited,2.99B,1.195,0.00%
+22,BKW.AX,Brickworks,2.98B,19.60,0.00%
+23,ILU.AX,Iluka Resources,2.96B,7.02,0.00%
+24,PLS.AX,Pilbara Minerals,2.74B,0.965,0.00%
+25,CSR.AX,CSR,2.73B,5.48,0.00%
+26,ORA.AX,Orora,2.63B,2.81,0.00%
+27,CIA.AX,Champion Iron,2.6B,5.42,0.00%
+28,SGM.AX,Sims Limited,2.5B,12.55,0.00%
+29,DRR.AX,Deterra Royalties Limited,2.39B,4.50,0.00%
+30,ABC.AX,Adbri Limited,1.98B,2.98,0.00%
+31,RRL.AX,Regis Resources,1.81B,3.47,0.00%
+32,NUF.AX,Nufarm,1.77B,4.68,0.00%
+33,CRN.AX,Coronado Global Resources Inc.,1.74B,1.26,0.00%
+34,ORE.AX,Orocobre Limited,1.68B,4.87,0.00%
+35,SBM.AX,St Barbara Limited,1.62B,2.24,0.00%
+36,PRU.AX,Perseus Mining,1.53B,1.185,0.00%
+37,CHN.AX,Chalice Mining Limited,1.53B,4.48,0.00%
+38,SLR.AX,Silver Lake Resources,1.4B,1.525,0.00%
+39,ZIM.AX,Zimplats Holdings,1.35B,12.50,0.00%
+40,GXY.AX,Galaxy Resources,1.26B,2.53,0.00%
+41,RMS.AX,Ramelius Resources,1.16B,1.42,0.00%
+42,DEG.AX,De Grey Mining,1.14B,0.885,0.00%
+43,GOR.AX,Gold Road Resources,1.08B,1.19,0.00%
+44,MGX.AX,Mount Gibson Iron,1.02B,0.88,0.00%
+45,PRN.AX,Perenti Global Limited,1.01B,1.43,0.00%
+46,PLL.AX,Piedmont Lithium Limited,997.49M,0.715,0.00%
+47,PGH.AX,Pact Group Holdings,925.34M,2.67,0.00%
+48,WGX.AX,Westgold Resources Limited,915.53M,2.00,0.00%
+49,SFR.AX,Sandfire Resources Limited,896.6M,5.00,0.00%
+50,BGL.AX,Bellevue Gold Limited,872.48M,0.98,0.00%
+51,LTR.AX,Liontown Resources,804.63M,0.445,0.00%
+52,VUL.AX,Vulcan Energy Resources Limited,792.01M,7.37,0.00%
+53,RSG.AX,Resolute Mining,772.73M,0.685,0.00%
+54,WAF.AX,West African Resources,769.91M,0.835,0.00%
+55,IMD.AX,Imdex Limited,759.21M,1.925,0.00%
+56,ABR.AX,American Pacific Borates Limited,727.69M,1.94,0.00%
+57,INR.AX,ioneer Ltd,724.94M,0.47,0.00%
+58,WSA.AX,Western Areas Ltd,684.92M,2.45,0.00%
+59,JMS.AX,Jupiter Mines Limited,646.47M,0.34,0.00%
+60,ADN.AX,Andromeda Metals Limited,645.82M,0.30,0.00%
+61,ASM.AX,Australian Strategic Materials Limited,627.39M,5.27,0.00%
+62,CMM.AX,Capricorn Metals Ltd,595.08M,1.70,0.00%
+63,AVZ.AX,AVZ Minerals Limited,578.03M,0.20,0.00%
+64,SYR.AX,Syrah Resources,566.68M,1.14,0.00%
+65,AGG.AX,Anglogold Ashanti,535.25M,6.00,0.00%
+66,MAH.AX,Macmahon Holdings,527.97M,0.25,0.00%
+67,OMH.AX,OM Holdings,502.26M,0.68,0.00%
+68,AMI.AX,Aurelia Metals,493.73M,0.395,0.00%
+69,ALK.AX,Alkane Resources Limited,476.31M,0.78,0.00%
+70,MLD.AX,MACA Limited,464.73M,1.335,0.00%
+71,BCK.AX,Brockman Mining Ltd,463.96M,0.05,0.00%
+72,TLG.AX,Talga Group Ltd,457.88M,1.51,0.00%
+73,MCR.AX,Mincor Resources NL,434.02M,1.005,0.00%
+74,GRR.AX,Grange Resources,428.22M,0.37,0.00%
+75,RED.AX,Red 5 Limited,423.75M,0.215,0.00%
+76,ADT.AX,Adriatic Metals,423.41M,2.34,0.00%
+77,EMR.AX,Emerald Resources NL,394.28M,0.765,0.00%
+78,SSR.AX,SSR Mining Inc,381.16M,21.12,0.00%
+79,JRV.AX,Jervois Mining,372.98M,0.465,0.00%
+80,EGR.AX,EcoGraf Limited,349.43M,0.96,0.00%
+81,WGN.AX,Wagners Holding Company,337.89M,1.805,0.00%
+82,SO4.AX,Salt Lake Potash Limited,332.61M,0.455,0.00%
+83,BSE.AX,Base Resources,329.84M,0.28,0.00%
+84,LEG.AX,Legend Mining,321.39M,0.12,0.00%
+85,PAN.AX,Panoramic Resources,317.89M,0.155,0.00%
+86,LKE.AX,Lake Resources NL,312.36M,0.31,0.00%
+87,PNR.AX,Pantoro Limited,309.85M,0.22,0.00%
+88,MAU.AX,Magnetic Resources NL,309.13M,1.43,0.00%
+89,A4N.AX,Alpha HPA Limited,308.11M,0.445,0.00%
+90,TBR.AX,Tribune Resources,303.79M,5.79,0.00%
+91,SVL.AX,Silver Mines Limited,286.54M,0.275,0.00%
+92,ARU.AX,Arafura Resources,280.76M,0.24,0.00%
+93,GGG.AX,Greenland Minerals Limited,268.2M,0.20,0.00%
+94,CTM.AX,Centaurus Metals,263.75M,0.805,0.00%
+95,DCN.AX,Dacian Gold,261.56M,0.445,0.00%
+96,FMS.AX,Flinders Mines,251.58M,1.49,0.00%
+97,CXO.AX,Core Lithium Ltd,250.61M,0.25,0.00%
+98,E25.AX,Element 25 Limited,245.37M,1.85,0.00%
+99,NVA.AX,Nova Minerals Limited,242.14M,0.145,0.00%
+100,CXL.AX,Calix Limited,237.9M,1.60,0.00%
+101,OBM.AX,Ora Banda Mining Ltd,235.82M,0.28,0.00%
+102,HAS.AX,Hastings Technology Metals,234.84M,0.195,0.00%
+103,CLV.AX,Clover Corp,232.83M,1.40,0.00%
+104,ANO.AX,Advance NanoTek Limited,232.75M,3.88,0.00%
+105,NTU.AX,Northern Minerals,230.52M,0.052,0.00%
+106,IRD.AX,Iron Road Limited,230.44M,0.30,0.00%
+107,MNS.AX,Magnis Energy Technologies,226.3M,0.31,0.00%
+108,HZR.AX,Hazer Group Limited,226M,1.555,0.00%
+109,NCZ.AX,New Century Resources Limited,223.84M,0.185,0.00%
+110,KCN.AX,Kingsgate Consolidated Limited,211.52M,0.935,0.00%
+111,AJM.AX,Altura Mining,209.04M,0.07,0.00%
+112,HFR.AX,Highfield Resources,207.65M,0.63,0.00%
+113,POS.AX,Poseidon Nickel,205.09M,0.073,0.00%
+114,NMT.AX,Neometals Limited,204.51M,0.375,0.00%
+115,CEL.AX,Challenger Exploration,204.4M,0.37,0.00%
+116,GNG.AX,GR Engineering Services,204.03M,1.315,0.00%
+117,BCI.AX,BCI Minerals Limited,203.45M,0.34,0.00%
+118,CYL.AX,Catalyst Metals,199.54M,2.03,0.00%
+119,DGO.AX,DGO Gold Limited,192.71M,2.62,0.00%
+120,ORR.AX,Orecorp Limited,191.97M,0.60,0.00%
+121,FFX.AX,Firefinch Limited,191.57M,0.245,0.00%
+122,PM8.AX,Pensana Metals Ltd,187.38M,1.545,0.00%
+123,MGV.AX,Musgrave Minerals,186.63M,0.35,0.00%
+124,TIE.AX,Tietto Minerals Limited,184.25M,0.405,0.00%
+125,MRC.AX,Mineral Commodities,182.5M,0.40,0.00%
+126,KLL.AX,Kalium Lakes Limited,180.42M,0.215,0.00%
+127,AUT.AX,Auteco Minerals Ltd,180.23M,0.115,0.00%
+128,SES.AX,SECOS Group Ltd,178.73M,0.335,0.00%
+129,PPG.AX,Pro-Pac Packaging,178.44M,0.22,0.00%
+130,MML.AX,Medusa Mining,176.69M,0.85,0.00%
+131,AXE.AX,Archer Materials Limited,174.87M,0.775,0.00%
+132,PEK.AX,Peak Resources Limited,174.08M,0.11,0.00%
+133,IMA.AX,Image Resources NL,173.62M,0.175,0.00%
+134,SVM.AX,Sovereign Metals,173.47M,0.44,0.00%
+135,SVY.AX,Stavely Minerals,172.24M,0.66,0.00%
+136,AIS.AX,Aeris Resources Limited,170.73M,0.09,0.00%
+137,LCY.AX,Legacy Iron Ore,168.68M,0.027,0.00%
+138,BOC.AX,Bougainville Copper Limited,166.44M,0.415,0.00%
+139,TGN.AX,Tungsten Mining NL,165.15M,0.21,0.00%
+140,TGM.AX,Theta Gold Mines Limited,164.09M,0.355,0.00%
+141,VRX.AX,VRX Silica Ltd,164.01M,0.325,0.00%
+142,EMH.AX,European Metals Holdings,159.87M,1.26,0.00%
+143,FGR.AX,First Graphene Limited,159.54M,0.30,0.00%
+144,MLX.AX,Metals X Limited,158.77M,0.175,0.00%
+145,KGL.AX,KGL Resources,157.8M,0.47,0.00%
+146,BSX.AX,Blackstone Minerals Limited,157.7M,0.49,0.00%
+147,OGC.AX,OceanaGold Corporation,157.49M,2.24,0.00%
+148,WMX.AX,Wiluna Mining Corporation Limited,154.37M,1.30,0.00%
+149,CAI.AX,Calidus Resources Limited,154.06M,0.45,0.00%
+150,AGY.AX,Argosy Minerals,152.93M,0.15,0.00%
+151,NWF.AX,Newfield Resources,151.14M,0.26,0.00%
+152,SYA.AX,Sayona Mining,145.84M,0.039,0.00%
+153,ATU.AX,Atrum Coal Limited,145.24M,0.25,0.00%
+154,ZNO.AX,Zoono Group Limited,145.24M,0.885,0.00%
+155,ORN.AX,Orion Minerals Limited,143.38M,0.042,0.00%
+156,TTM.AX,Titan Minerals Limited,142.43M,0.125,0.00%
+157,FYI.AX,FYI Resources,140.22M,0.465,0.00%
+158,G1A.AX,Galena Mining Limited,138.86M,0.30,0.00%
+159,BDC.AX,Bardoc Gold Limited,138.81M,0.08,0.00%
+160,AZS.AX,Azure Minerals,138.64M,0.45,0.00%
+161,CII.AX,CI Resources,137.54M,1.19,0.00%
+162,GMD.AX,Genesis Minerals Limited,136.01M,0.07,0.00%
+163,SFX.AX,Sheffield Resources,134.96M,0.405,0.00%
+164,MYL.AX,Myanmar Metals Limited,133.08M,0.07,0.00%
+165,RTG.AX,RTG Mining,131.06M,0.205,0.00%
+166,LIT.AX,Lithium Australia NL,129.32M,0.145,0.00%
+167,IXR.AX,Ionic Rare Earths Limited,126.49M,0.045,0.00%
+168,EMN.AX,Euro Manganese Inc,123.77M,0.64,0.00%
+169,GCY.AX,Gascoyne Resources,122.92M,0.49,0.00%
+170,GLN.AX,Galan Lithium Limited,122.27M,0.515,0.00%
+171,RVR.AX,Red River Resources,121.68M,0.235,0.00%
+172,TNG.AX,TNG Limited,121.2M,0.097,0.00%
+173,ZEO.AX,Zeotech Limited,120.38M,0.084,0.00%
+174,DNK.AX,Danakali Limited,119.53M,0.375,0.00%
+175,BBX.AX,BBX Minerals,119.37M,0.275,0.00%
+176,LPD.AX,Lepidico Limited,119.32M,0.023,0.00%
+177,TIG.AX,Tigers Realm Coal,117.48M,0.008,0.00%
+178,AGD.AX,Austral Gold,117.3M,0.195,0.00%
+179,BRI.AX,Big River Industries Limited,116.92M,1.60,0.00%
+180,IVR.AX,Investigator Resources,116.51M,0.088,0.00%
+181,BCN.AX,Beacon Minerals,114.93M,0.04,0.00%
+182,AMN.AX,Agrimin Limited,112.93M,0.525,0.00%
+183,FEX.AX,Fenix Resources Ltd,111.16M,0.245,0.00%
+184,LOT.AX,Lotus Resources Limited,110.67M,0.135,0.00%
+185,BKT.AX,Black Rock Mining Limited,110.62M,0.155,0.00%
+186,SDV.AX,SciDev Limited,110.32M,0.72,0.00%
+187,HCH.AX,Hot Chili,110.12M,0.036,0.00%
+188,TSO.AX,Tesoro Resources Limited,109.9M,0.22,0.00%
+189,STA.AX,Strandline Resources Limited,109.81M,0.21,0.00%
+190,NTM.AX,NTM Gold Limited,109.7M,0.16,0.00%
+191,ARV.AX,Artemis Resources,107.99M,0.095,0.00%
+192,RND.AX,Rand Mining,105.26M,1.75,0.00%
+193,APC.AX,Australian Potash Limited,104.69M,0.19,0.00%
+194,VML.AX,Vital Metals,104.31M,0.039,0.00%
+195,AOP.AX,Apollo Consolidated,98.13M,0.3425,0.00%
+196,KIN.AX,Kin Mining NL,98.06M,0.14,0.00%
+197,TAM.AX,Tanami Gold NL,97.53M,0.083,0.00%
+198,CAA.AX,Capral Limited,96.89M,5.85,0.00%
+199,OKU.AX,Oklo Resources,95.77M,0.19,0.00%
+200,AUZ.AX,Australian Mines Limited,95.07M,0.024,0.00%
+201,AZY.AX,Antipa Minerals,94.85M,0.038,0.00%
+202,GWR.AX,GWR Group,93.53M,0.31,0.00%
+203,MMI.AX,Metro Mining Limited,93.14M,0.067,0.00%
+204,TZN.AX,Terramin Australia,93.13M,0.044,0.00%
+205,BRV.AX,Big River Gold Limited,92.99M,0.054,0.00%
+206,LPI.AX,Lithium Power International,92.91M,0.31,0.00%
+207,PEX.AX,Peel Mining,92.24M,0.27,0.00%
+208,TTT.AX,Titomic Limited,91.18M,0.595,0.00%
+209,MSV.AX,Mitchell Services,90.65M,0.455,0.00%
+210,WWI.AX,West Wits Mining,90.42M,0.074,0.00%
+211,CHZ.AX,Chesser Resources,90.17M,0.20,0.00%
+212,GPR.AX,Geopacific Resources,87.52M,0.40,0.00%
+213,TGH.AX,Terragen Holdings Limited,87.28M,0.48,0.00%
+214,NML.AX,Navarre Minerals,87.22M,0.16,0.00%
+215,MEI.AX,Meteoric Resources NL,86.76M,0.066,0.00%
+216,MYE.AX,Mastermyne Group,86.48M,0.815,0.00%
+217,MIO.AX,Macarthur Minerals Limited,85.72M,0.635,0.00%
+218,ZER.AX,Zeta Resources Ltd,83.42M,0.29,0.00%
+219,COB.AX,Cobalt Blue Holdings Limited,83.15M,0.335,0.00%
+220,ASN.AX,Anson Resources Limited,83.13M,0.093,0.00%
+221,CSD.AX,Consolidated Tin Mines,82.48M,0.125,0.00%
+222,AOU.AX,Auroch Minerals Ltd,81.97M,0.305,0.00%
+223,KIS.AX,King Island Scheelite,81.72M,0.26,0.00%
+224,BC8.AX,Black Cat Syndicate Limited,80.56M,0.73,0.00%
+225,INF.AX,Infinity Lithium Corporation Limited,79.97M,0.25,0.00%
+226,RXL.AX,Rox Resources,79.94M,0.039,0.00%
+227,AML.AX,Aeon Metals,77.92M,0.115,0.00%
+228,AHQ.AX,Allegiance Coal,77.55M,0.09,0.00%
+229,ATC.AX,Altech Chemicals,77.19M,0.06,0.00%
+230,MGT.AX,Magnetite Mines Limited,77.12M,0.027,0.00%
+231,FHS.AX,Freehill Mining Limited,77.09M,0.047,0.00%
+232,AAR.AX,Anglo Australian Resources NL,76.57M,0.13,0.00%
+233,LRS.AX,Latin Resources,76.43M,0.063,0.00%
+234,AUC.AX,Ausgold Limited,75.42M,0.058,0.00%
+235,BRL.AX,Bathurst Resources Limited,75.22M,0.044,0.00%
+236,MEP.AX,Minotaur Exploration,74.91M,0.15,0.00%
+237,DRX.AX,Diatreme Resources,74.62M,0.029,0.00%
+238,MWY.AX,Midway Limited,73.8M,0.845,0.00%
+239,RXM.AX,Rex Minerals,73.37M,0.195,0.00%
+240,AVL.AX,Australian Vanadium Limited,73.25M,0.025,0.00%
+241,LCL.AX,Los Cerros Limited,72.86M,0.155,0.00%
+242,VMS.AX,Venture Minerals,72.47M,0.06,0.00%
+243,ARL.AX,Ardea Resources Limited,72.13M,0.565,0.00%
+244,CKA.AX,Cokal Limited,72.12M,0.078,0.00%
+245,HWK.AX,Hawkstone Mining Limited,69.39M,0.043,0.00%
+246,BML.AX,Boab Metals Limited,68.51M,0.45,0.00%
+247,BRB.AX,Breaker Resources NL,68.43M,0.21,0.00%
+248,VAN.AX,Vango Mining Limited,68.2M,0.066,0.00%
+249,HRZ.AX,Horizon Minerals Limited,68.16M,0.12,0.00%
+250,KSN.AX,Kingston Resources,68.05M,0.24,0.00%
+251,BLY.AX,Boart Longyear,67.71M,0.765,0.00%
+252,CAY.AX,Canyon Resources,67.53M,0.11,0.00%
+253,JRL.AX,Jindalee Resources,67.21M,1.50,0.00%
+254,TI1.AX,Tombador Iron Limited,67.04M,0.089,0.00%
+255,NWC.AX,New World Resources Limited,66.32M,0.05,0.00%
+256,ESR.AX,Estrella Resources,66.29M,0.073,0.00%
+257,TON.AX,Triton Minerals,65.8M,0.058,0.00%
+258,PDI.AX,Predictive Discovery,65.09M,0.065,0.00%
+259,FML.AX,Focus Minerals,64.88M,0.355,0.00%
+260,TRY.AX,Troy Resources,64.39M,0.085,0.00%
+261,SUV.AX,Suvo Strategic Minerals Limited,64.21M,0.15,0.00%
+262,RTR.AX,Rumble Resources,63.86M,0.12,0.00%
+263,HMX.AX,Hammer Metals,63.76M,0.085,0.00%
+264,E2M.AX,E2 Metals Limited,63.6M,0.425,0.00%
+265,KZR.AX,Kalamazoo Resources Limited,63.51M,0.485,0.00%
+266,EUR.AX,European Lithium Limited,62.96M,0.068,0.00%
+267,HAV.AX,Havilah Resources Limited,62.79M,0.205,0.00%
+268,TAO.AX,Tao Commodities Ltd,62.44M,0.63,0.00%
+269,NUS.AX,Nusantara Resources Limited,61.9M,0.27,0.00%
+270,MZZ.AX,Matador Mining Limited,61.5M,0.36,0.00%
+271,BAT.AX,Battery Minerals Limited,61.24M,0.03,0.00%
+272,GML.AX,Gateway Mining,60.92M,0.032,0.00%
+273,PDZ.AX,Prairie Mining,60.51M,0.265,0.00%
+274,ARD.AX,Argent Minerals,58.71M,0.067,0.00%
+275,LER.AX,Leaf Resources Limited,58.52M,0.069,0.00%
+276,LOM.AX,Lucapa Diamond Company,58.32M,0.07,0.00%
+277,PSC.AX,Prospect Resources,58.12M,0.175,0.00%
+278,EM2.AX,Eagle Mountain Mining Limited,57.83M,0.375,0.00%
+279,KPT.AX,Kangaroo Island Plantation Timbers,57.82M,1.025,0.00%
+280,MRL.AX,Mayur Resources Limited,57.53M,0.295,0.00%
+281,QPM.AX,Queensland Pacific Metals Limited,56.91M,0.061,0.00%
+282,DGR.AX,DGR Global,56.58M,0.058,0.00%
+283,CHK.AX,Cohiba Minerals,55.56M,0.04,0.00%
+284,SIH.AX,Sihayo Gold,55.28M,0.015,0.00%
+285,S2R.AX,S2 Resources Ltd,55.11M,0.175,0.00%
+286,BDM.AX,Burgundy Diamond Mines Limited,54.84M,0.22,0.00%
+287,GBZ.AX,GBM Resources,54.13M,0.125,0.00%
+288,WKT.AX,Walkabout Resources,54.12M,0.155,0.00%
+289,BIS.AX,Bisalloy Steel Group,54.05M,1.19,0.00%
+290,KAI.AX,Kairos Minerals Limited,53.64M,0.032,0.00%
+291,SGQ.AX,St George Mining,52.87M,0.105,0.00%
+292,TMT.AX,Technology Metals Australia Limited,51.63M,0.345,0.00%
+293,GAL.AX,Galileo Mining Limited,51.52M,0.36,0.00%
+294,BCB.AX,Bowen Coking Coal Limited,50.92M,0.054,0.00%
+295,CCZ.AX,Castillo Copper,50.9M,0.05,0.00%
+296,DME.AX,Dome Gold Mines,50.44M,0.17,0.00%
+297,KLA.AX,Kirkland Lake Gold Ltd,50.2M,50.20,0.00%
+298,MTH.AX,Mithril Resources,49.35M,0.021,0.00%
+299,KPC.AX,Kazakhstan Potash Corporation,48.88M,0.02,0.00%
+300,AKM.AX,Aspire Mining,48.73M,0.096,0.00%
+301,SRK.AX,Strike Resources,48.19M,0.195,0.00%
+302,SWK.AX,Swick Mining Services,47.85M,0.16,0.00%
+303,AUR.AX,Auris Minerals Limited,47.66M,0.10,0.00%
+304,POD.AX,Podium Minerals Limited,47.66M,0.17,0.00%
+305,TMZ.AX,Thomson Resources,47.49M,0.145,0.00%
+306,REE.AX,RareX Limited,46.99M,0.115,0.00%
+307,STN.AX,Saturn Metals Limited,46.64M,0.43,0.00%
+308,KRR.AX,King River Resources Limited,46.61M,0.03,0.00%
+309,ADV.AX,Ardiden Limited,45M,0.021,0.00%
+310,HRN.AX,Horizon Gold Limited,44.78M,0.51,0.00%
+311,AGS.AX,Alliance Resources,44.72M,0.215,0.00%
+312,VII.AX,Vietnam Industrial Investments,44.11M,0.31,0.00%
+313,EQR.AX,EQ Resources Limited,43.3M,0.039,0.00%
+314,VRC.AX,Volt Resources Limited,43.26M,0.02,0.00%
+315,PEC.AX,Perpetual Resources,43.25M,0.096,0.00%
+316,ENR.AX,Encounter Resources,42.6M,0.135,0.00%
+317,COY.AX,Coppermoly Limited,42.54M,0.02,0.00%
+318,CLA.AX,Celsius Resources Limited,42.25M,0.048,0.00%
+319,WRM.AX,White Rock Minerals,42.17M,0.58,0.00%
+320,MKR.AX,Manuka Resources Limited,42.07M,0.455,0.00%
+321,TAS.AX,Tasman Resources,41.56M,0.068,0.00%
+322,CLE.AX,Cyclone Metals Limited,40.79M,0.009,0.00%
+323,DRE.AX,Dreadnought Resources Ltd,40.71M,0.017,0.00%
+324,SKY.AX,Sky Metals Limited,40.7M,0.165,0.00%
+325,VXR.AX,Venturex Resources,40.68M,0.105,0.00%
+326,CVV.AX,Caravel Minerals,40.59M,0.14,0.00%
+327,FFR.AX,Firefly Resources Limited,40.47M,0.135,0.00%
+328,EQX.AX,Equatorial Resources,39.82M,0.32,0.00%
+329,C6C.AX,Copper Mountain Mining Corporation,39.4M,2.35,0.00%
+330,KAU.AX,Kaiser Reef Limited,39.21M,0.405,0.00%
+331,VKA.AX,Viking Mines,39.14M,0.043,0.00%
+332,VYS.AX,Vysarn Limited,39.07M,0.11,0.00%
+333,ELT.AX,Elementos Limited,39.07M,0.012,0.00%
+334,AJX.AX,Alexium International,39.02M,0.061,0.00%
+335,DKM.AX,Duketon Mining Limited,38.15M,0.315,0.00%
+336,MNB.AX,Minbos Resources,36.97M,0.10,0.00%
+337,GSN.AX,Great Southern Mining Limited,36.86M,0.081,0.00%
+338,GME.AX,GME Resources Limited,36.75M,0.066,0.00%
+339,ODY.AX,Odyssey Gold Limited,36.2M,0.08,0.00%
+340,AQI.AX,Alicanto Minerals,35.96M,0.11,0.00%
+341,CPN.AX,Caspin Resources Limited,35.74M,0.595,0.00%
+342,OAR.AX,OAR Resources Limited,35.62M,0.022,0.00%
+343,YRL.AX,Yandal Resources Limited,35.51M,0.38,0.00%
+344,RCP.AX,Redbank Copper,35.27M,0.086,0.00%
+345,AMG.AX,Ausmex Mining Group Limited,35.19M,0.064,0.00%
+346,ARE.AX,Argonaut Resources NL,34.95M,0.013,0.00%
+347,XAM.AX,Xanadu Mines,34.94M,0.032,0.00%
+348,AQX.AX,Alice Queen Limited,34.93M,0.032,0.00%
+349,KRM.AX,Kingsrose Mining,34.31M,0.047,0.00%
+350,ERM.AX,Emmerson Resources,34.28M,0.071,0.00%
+351,CZR.AX,CZR Resources Ltd,34.24M,0.013,0.00%
+352,VMC.AX,Venus Metals,33.99M,0.225,0.00%
+353,CST.AX,Castile Resources Ltd,33.95M,0.17,0.00%
+354,ZNC.AX,Zenith Minerals,33.85M,0.115,0.00%
+355,IPT.AX,Impact Minerals,33.84M,0.019,0.00%
+356,GMN.AX,Gold Mountain Limited,33.47M,0.045,0.00%
+357,AME.AX,Alto Metals Limited,33.16M,0.079,0.00%
+358,MCT.AX,Metalicity Limited,33.14M,0.019,0.00%
+359,GTE.AX,Great Western Exploration,33.12M,0.285,0.00%
+360,AWV.AX,Anova Metals,32.96M,0.024,0.00%
+361,PWN.AX,Parkway Minerals NL,32.94M,0.015,0.00%
+362,CTO.AX,Citigold Corporation,32.65M,0.012,0.00%
+363,MR1.AX,Montem Resources Limited,32.61M,0.20,0.00%
+364,SNG.AX,Siren Gold Limited,32.53M,0.545,0.00%
+365,ARR.AX,American Rare Earths Limited,32.49M,0.098,0.00%
+366,MDI.AX,Middle Island Resources,32.25M,0.265,0.00%
+367,SMG.AX,Soon Mining Limited,31.64M,0.20,0.00%
+368,CAD.AX,Caeneus Minerals,31.51M,0.008,0.00%
+369,CG1.AX,Carbonxt Group Limited,31.2M,0.22,0.00%
+370,BSR.AX,Bassari Resources,31.04M,0.013,0.00%
+371,NAG.AX,Nagambie Resources Limited,31M,0.062,0.00%
+372,HGO.AX,Hillgrove Resources,30.49M,0.036,0.00%
+373,WAK.AX,WA Kaolin Limited,30.25M,0.19,0.00%
+374,AIV.AX,ActivEX Limited,30.11M,0.17,0.00%
+375,HAW.AX,Hawthorn Resources,30.02M,0.09,0.00%
+376,LMG.AX,Latrobe Magnesium,29.82M,0.023,0.00%
+377,AL8.AX,Alderan Resources Limited,29.79M,0.1025,0.00%
+378,MGU.AX,Magnum Mining & Exploration,29.61M,0.079,0.00%
+379,SUP.AX,Superior Lake Resources Limited,29.58M,0.18,0.00%
+380,DAV.AX,Davenport Resources Limited,29.4M,0.073,0.00%
+381,FEL.AX,Fe Limited,29.34M,0.053,0.00%
+382,PNX.AX,PNX Metals Limited,29.22M,0.008,0.00%
+383,SI6.AX,SI6 Metals Limited,29.21M,0.021,0.00%
+384,ICG.AX,Inca Minerals,28.87M,0.077,0.00%
+385,STM.AX,Sunstone Metals Limited,28.73M,0.013,0.00%
+386,SRN.AX,Surefire Resources NL,28.31M,0.029,0.00%
+387,CNJ.AX,Conico Ltd,28.29M,0.034,0.00%
+388,CNB.AX,Carnaby Resources Limited,28.28M,0.24,0.00%
+389,PTR.AX,Petratherm Ltd,28.25M,0.15,0.00%
+390,RDM.AX,Red Metal,28.24M,0.115,0.00%
+391,ATR.AX,Astron Corporation Limited,28.17M,0.23,0.00%
+392,BSM.AX,Bass Metals,28.15M,0.007,0.00%
+393,ACS.AX,Accent Resources NL,27.96M,0.06,0.00%
+394,GBE.AX,Globe Metals & Mining,27.96M,0.06,0.00%
+395,BEM.AX,Blackearth Minerals NL,27.83M,0.185,0.00%
+396,GMR.AX,Golden Rim Resources,27.79M,0.011,0.00%
+397,IBG.AX,Ironbark Zinc Limited,27.54M,0.029,0.00%
+398,MAN.AX,Mandrake Resources Limited,27.49M,0.084,0.00%
+399,JAL.AX,Jameson Resources,27.3M,0.09,0.00%
+400,TNR.AX,Torian Resources NL,27.29M,0.035,0.00%
+401,ORM.AX,Orion Metals Limited,27.25M,0.05,0.00%
+402,GMC.AX,Gulf Manganese Corporation Limited,27.02M,0.0055,0.00%
+403,MKG.AX,Mako Gold Limited,27.01M,0.105,0.00%
+404,CGN.AX,Crater Gold Mining,27M,0.022,0.00%
+405,KWR.AX,Kingwest Resources Limited,26.9M,0.175,0.00%
+406,NXM.AX,Nexus Minerals,26.86M,0.11,0.00%
+407,MAT.AX,Matsa Resources,26.84M,0.099,0.00%
+408,AGR.AX,Aguia Resources,26.66M,0.095,0.00%
+409,LCD.AX,Latitude Consolidated,26.51M,0.034,0.00%
+410,MAG.AX,Magmatic Resources Limited,26.31M,0.15,0.00%
+411,RWD.AX,Reward Minerals,26.25M,0.135,0.00%
+412,ASO.AX,Aston Minerals Limited,26.15M,0.03,0.00%
+413,ASQ.AX,Australian Silica Quartz Group Ltd,26M,0.097,0.00%
+414,LSA.AX,Lachlan Star,25.99M,0.023,0.00%
+415,MVL.AX,Marvel Gold Limited,25.94M,0.051,0.00%
+416,CWX.AX,Carawine Resources Limited,25.59M,0.235,0.00%
+417,EQE.AX,Equus Mining,25.45M,0.014,0.00%
+418,HXG.AX,Hexagon Resources,25M,0.083,0.00%
+419,MTC.AX,MetalsTech Limited,24.92M,0.17,0.00%
+420,4CE.AX,Force Commodities Limited,24.65M,0.025,0.00%
+421,DTR.AX,Dateline Resources,24.63M,0.0025,0.00%
+422,LEX.AX,Lefroy Exploration Limited,24.6M,0.205,0.00%
+423,BTR.AX,Brightstar Resources Limited,24.4M,0.056,0.00%
+424,PRX.AX,Prodigy Gold NL,24.39M,0.042,0.00%
+425,PUR.AX,Pursuit Minerals Limited,24.27M,0.033,0.00%
+426,SHN.AX,Sunshine Gold Limited,24.26M,0.068,0.00%
+427,ESS.AX,Essential Metals Limited,24.1M,0.12,0.00%
+428,JDR.AX,Jadar Resources Limited,24.09M,0.034,0.00%
+429,PXX.AX,PolarX Limited,23.84M,0.044,0.00%
+430,VEC.AX,Vector Resources,23.52M,0.012,0.00%
+431,TSL.AX,Titanium Sands Limited,23.31M,0.028,0.00%
+432,HRR.AX,Heron Resources,23.15M,0.056,0.00%
+433,BMG.AX,BMG Resources,23.04M,0.096,0.00%
+434,TAR.AX,Taruga Minerals Limited,22.86M,0.05,0.00%
+435,RHI.AX,Red Hill Iron,22.75M,0.38,0.00%
+436,RDN.AX,Raiden Resources Limited,22.74M,0.026,0.00%
+437,CYM.AX,Cyprium Metals Limited,22.67M,0.23,0.00%
+438,LNY.AX,Laneway Resources,22.65M,0.0065,0.00%
+439,TRT.AX,Todd River Resources,22.24M,0.046,0.00%
+440,ONX.AX,Orminex Ltd,22.12M,0.041,0.00%
+441,A1M.AX,AIC Mines Limited,21.99M,0.32,0.00%
+442,BGT.AX,Bio-Gene Technology Ltd,21.98M,0.145,0.00%
+443,PGM.AX,Platina Resources,21.82M,0.052,0.00%
+444,PPY.AX,Papyrus Australia,21.81M,0.051,0.00%
+445,AZI.AX,Alta Zinc Limited,21.66M,0.006,0.00%
+446,WSI.AX,Weststar Industrial Limited,21.46M,0.022,0.00%
+447,TMR.AX,Tempus Resources Limited,21.17M,0.245,0.00%
+448,RIE.AX,Riedel Resources,21.04M,0.024,0.00%
+449,DM1.AX,Desert Metals Limited,21M,0.60,0.00%
+450,COD.AX,Coda Minerals Ltd,20.56M,0.295,0.00%
+451,SAU.AX,Southern Gold,20.48M,0.097,0.00%
+452,AYM.AX,Australia United Mining Limited,20.27M,0.011,0.00%
+453,GRL.AX,Godolphin Resources Limited,20.19M,0.24,0.00%
+454,OAU.AX,Ora Gold Limited,20.18M,0.024,0.00%
+455,ARN.AX,Aldoro Resources Limited,19.91M,0.295,0.00%
+456,PRL.AX,Province Resources Ltd,19.9M,0.026,0.00%
+457,NSM.AX,North Stawell Minerals Ltd,19.8M,0.495,0.00%
+458,TIN.AX,TNT Mines Limited,19.77M,0.205,0.00%
+459,TPO.AX,Tian Poh Resources Limited,19.33M,0.05,0.00%
+460,SPQ.AX,Superior Resources,19.28M,0.014,0.00%
+461,AKO.AX,Akora Resources Limited,19.17M,0.38,0.00%
+462,DEX.AX,Duke Exploration Limited,19.01M,0.315,0.00%
+463,CRS.AX,Caprice Resources Ltd,18.84M,0.285,0.00%
+464,AUL.AX,AuStar Gold Limited,18.82M,0.35,0.00%
+465,TRL.AX,Tanga Resources Limited,18.5M,0.05,0.00%
+466,ANX.AX,Anax Metals Limited,18.49M,0.066,0.00%
+467,MRQ.AX,MRG Metals,18.49M,0.012,0.00%
+468,CY5.AX,Cygnus Gold Limited,18.37M,0.17,0.00%
+469,MXR.AX,Maximus Resources,18.27M,0.15,0.00%
+470,IDA.AX,Indiana Resources Limited,18.19M,0.072,0.00%
+471,EMU.AX,Emu NL,18.18M,0.051,0.00%
+472,KTA.AX,Krakatoa Resources,18.13M,0.065,0.00%
+473,DDD.AX,3D Resources,18.08M,0.005,0.00%
+474,TKM.AX,Trek Metals Limited,17.9M,0.07,0.00%
+475,LIN.AX,Lindian Resources,17.89M,0.025,0.00%
+476,CNL.AX,Celamin Holdings,17.75M,0.091,0.00%
+477,REZ.AX,Resources & Energy Group,17.7M,0.041,0.00%
+478,PNN.AX,Pepinnini Lithium Limited,17.57M,0.425,0.00%
+479,RMX.AX,Red Mountain Mining,17.52M,0.014,0.00%
+480,RGL.AX,Riversgold Limited,17.45M,0.044,0.00%
+481,TLM.AX,Talisman Mining,17.36M,0.093,0.00%
+482,MGL.AX,Magontec Limited,17.26M,0.015,0.00%
+483,PUA.AX,Peak Minerals Limited,17.21M,0.028,0.00%
+484,AAU.AX,Antilles Gold Limited,17.17M,0.088,0.00%
+485,SRZ.AX,Stellar Resources,17.11M,0.026,0.00%
+486,SMI.AX,Santana Minerals,17.1M,0.15,0.00%
+487,ZAG.AX,Zuleika Gold Limited,17.1M,0.05,0.00%
+488,CLZ.AX,Classic Minerals,17.04M,0.0015,0.00%
+489,BAR.AX,Barra Resources,16.94M,0.025,0.00%
+490,KFE.AX,Kogi Iron,16.92M,0.02,0.00%
+491,AON.AX,Apollo Minerals,16.81M,0.05,0.00%
+492,NPM.AX,New Peak Metals Limited,16.77M,0.0035,0.00%
+493,ACP.AX,Audalia Resources Limited,16.61M,0.024,0.00%
+494,VIC.AX,Victory Mines,16.55M,0.003,0.00%
+495,HNR.AX,Hannans Ltd,16.52M,0.007,0.00%
+496,GIB.AX,Gibb River Diamonds Limited,16.5M,0.079,0.00%
+497,DTM.AX,Dart Mining NL,16.49M,0.165,0.00%
+498,SPN.AX,Sparc Technologies Limited,16.4M,0.305,0.00%
+499,LLO.AX,Lion One Metals,16.37M,1.60,0.00%
+500,CAV.AX,Carnavale Resources,16.34M,0.008,0.00%
+501,AJY.AX,Asaplus Resources,16.32M,0.12,0.00%
+502,RIM.AX,Rimfire Pacific Mining NL,16.26M,0.009,0.00%
+503,AQD.AX,AusQuest Limited,16.26M,0.024,0.00%
+504,RBR.AX,RBR Group Limited,16.25M,0.013,0.00%
+505,ADY.AX,Admiralty Resources NL,16.23M,0.014,0.00%
+506,NRX.AX,Noronex Limited,16.18M,0.135,0.00%
+507,VR8.AX,Vanadium Resources Limited,16.09M,0.041,0.00%
+508,GUL.AX,Gullewa Limited,15.87M,0.087,0.00%
+509,ELE.AX,Elmore Ltd,15.59M,0.069,0.00%
+510,WC8.AX,Wildcat Resources Limited,15.56M,0.031,0.00%
+511,GTR.AX,GTI Resources,15.47M,0.024,0.00%
+512,EMT.AX,eMetals Limited,15.36M,0.037,0.00%
+513,CRL.AX,Comet Resources,15.31M,0.025,0.00%
+514,SLZ.AX,Sultan Resources Ltd,15.3M,0.22,0.00%
+515,MSR.AX,Manas Resources,15.18M,0.0055,0.00%
+516,PF1.AX,Pathfinder Resources Ltd,15.17M,0.305,0.00%
+517,ABX.AX,Australian Bauxite Limited,14.73M,0.098,0.00%
+518,BNR.AX,Bulletin Resources,14.52M,0.081,0.00%
+519,NES.AX,Nelson Resources Limited,14.44M,0.10,0.00%
+520,CAZ.AX,Cazaly Resources,14.43M,0.04,0.00%
+521,BOA.AX,Boadicea Resources,14.29M,0.23,0.00%
+522,CBE.AX,Cobre Limited,14.24M,0.21,0.00%
+523,SHH.AX,Shree Minerals,13.76M,0.017,0.00%
+524,TKL.AX,Traka Resources,13.67M,0.027,0.00%
+525,SCI.AX,Silver City Minerals,13.65M,0.028,0.00%
+526,ERL.AX,Empire Resources,13.63M,0.015,0.00%
+527,ARO.AX,Astro Resources NL,13.48M,0.0045,0.00%
+528,STK.AX,Strickland Metals Limited,13.48M,0.032,0.00%
+529,SBR.AX,Sabre Resources,13.46M,0.008,0.00%
+530,VAL.AX,Valor Resources Limited,13.45M,0.007,0.00%
+531,ALY.AX,Alchemy Resources,13.44M,0.02,0.00%
+532,MLM.AX,Metallica Minerals,13.28M,0.041,0.00%
+533,CXX.AX,Cradle Resources,13.28M,0.07,0.00%
+534,RLC.AX,Reedy Lagoon Corporation,13.15M,0.028,0.00%
+535,MBK.AX,Metal Bank Limited,13.03M,0.011,0.00%
+536,MRR.AX,Minrex Resources Limited,13.03M,0.026,0.00%
+537,CSE.AX,Copper Strike Ltd,12.82M,0.12,0.00%
+538,GNM.AX,Great Northern Minerals Limited,12.71M,0.013,0.00%
+539,TRN.AX,Torrens Mining Limited,12.63M,0.19,0.00%
+540,NTL.AX,New Talisman Gold,12.57M,0.0045,0.00%
+541,AGC.AX,Australian Gold and Copper Ltd,12.19M,0.18,0.00%
+542,SCN.AX,Scorpion Minerals Limited,12.16M,0.053,0.00%
+543,AMD.AX,Arrow Minerals Limited,11.99M,0.009,0.00%
+544,ENT.AX,Enterprise Metals,11.97M,0.022,0.00%
+545,DCX.AX,DiscovEx Resources Limited,11.96M,0.01,0.00%
+546,BDG.AX,Black Dragon Gold Corp.,11.96M,0.089,0.00%
+547,RAN.AX,Range International Limited,11.74M,0.026,0.00%
+548,PSL.AX,Paterson Resources Ltd,11.73M,0.037,0.00%
+549,OZM.AX,OzAurum Resources Limited,11.7M,0.225,0.00%
+550,MRD.AX,Mount Ridley Mines Limited,11.64M,0.003,0.00%
+551,KGM.AX,Kalnorth Gold Mines,11.63M,0.013,0.00%
+552,KMT.AX,Kopore Metals Limited,11.62M,0.018,0.00%
+553,A1G.AX,African Gold Limited,11.58M,0.23,0.00%
+554,SRI.AX,Sipa Resources,11.56M,0.065,0.00%
+555,ENV.AX,Enova Mining Limited,11.51M,0.034,0.00%
+556,RFR.AX,Rafaella Resources Ltd,11.51M,0.09,0.00%
+557,CR1.AX,Constellation Resources Limited,11.22M,0.32,0.00%
+558,NME.AX,Nex Metals Explorations,11.22M,0.042,0.00%
+559,QGL.AX,Quantum Graphite Limited,11.16M,0.051,0.00%
+560,HLX.AX,Helix Resources,11.12M,0.014,0.00%
+561,CBY.AX,Canterbury Resources Ltd,11M,0.125,0.00%
+562,CAP.AX,Carpentaria Resources Limited,10.82M,0.035,0.00%
+563,M2R.AX,Miramar Resources Limited,10.77M,0.255,0.00%
+564,AUN.AX,Aurumin Limited,10.77M,0.24,0.00%
+565,FAU.AX,First Au Limited,10.76M,0.02,0.00%
+566,PRS.AX,Prospech Limited,10.73M,0.165,0.00%
+567,AUQ.AX,Alara Resources,10.72M,0.016,0.00%
+568,ANW.AX,Aus Tin Mining,10.5M,0.0015,0.00%
+569,MLS.AX,Metals Australia,10.48M,0.0025,0.00%
+570,AEV.AX,Avenira Limited,10.35M,0.012,0.00%
+571,CZL.AX,Consolidated Zinc Limited,10.22M,0.043,0.00%
+572,QXR.AX,QX Resources Limited,10.14M,0.019,0.00%
+573,MRZ.AX,Mont Royal Resources Limited,10.13M,0.305,0.00%
+574,NWM.AX,Norwest Minerals Limited,10.01M,0.092,0.00%
+575,M24.AX,Mamba Exploration Limited,9.99M,0.27,0.00%
+576,BYH.AX,Bryah Resources Limited,9.98M,0.065,0.00%
+577,RML.AX,Resolution Minerals Ltd,9.94M,0.034,0.00%
+578,WCN.AX,White Cliff Minerals,9.83M,0.019,0.00%
+579,BUX.AX,Buxton Resources,9.8M,0.072,0.00%
+580,RCR.AX,RCR Tomlinson,9.72M,0.26,0.00%
+581,PAM.AX,Pan Asia Metals Limited,9.68M,0.185,0.00%
+582,OKR.AX,Okapi Resources Limited,9.67M,0.215,0.00%
+583,QEM.AX,QEM Limited,9.6M,0.096,0.00%
+584,AAJ.AX,Aruma Resources Limited,9.54M,0.09,0.00%
+585,CXM.AX,Centrex Metals,9.53M,0.026,0.00%
+586,SHE.AX,Stonehorse Energy Limited,9.48M,0.024,0.00%
+587,CZN.AX,Corazon Mining,9.43M,0.058,0.00%
+588,ANL.AX,Amani Gold Limited,9.39M,0.001,0.00%
+589,GED.AX,Golden Deeps,9.3M,0.012,0.00%
+590,LSR.AX,Lodestar Minerals,9.13M,0.01,0.00%
+591,TMG.AX,Trigg Mining Ltd,9.02M,0.145,0.00%
+592,TYX.AX,Tyranna Resources Limited,8.98M,0.007,0.00%
+593,GES.AX,Genesis Resources,8.61M,0.011,0.00%
+594,FTZ.AX,Fertoz Ltd,8.54M,0.055,0.00%
+595,BPM.AX,BPM Minerals Limited,8.54M,0.345,0.00%
+596,PNM.AX,Pacific Nickel Mines Limited,8.54M,0.057,0.00%
+597,NCR.AX,NuCoal Resources,8.45M,0.011,0.00%
+598,TEM.AX,Tempest Minerals Limited,8.43M,0.031,0.00%
+599,SER.AX,Strategic Energy Resources,8.4M,0.042,0.00%
+600,CRB.AX,Carbine Resources,8.39M,0.042,0.00%
+601,AX8.AX,Accelerate Resources Limited,8.31M,0.053,0.00%
+602,GSM.AX,Golden State Mining Limited,8.21M,0.145,0.00%
+603,WML.AX,Woomera Mining Limited,8.16M,0.024,0.00%
+604,XTC.AX,Xantippe Resources Limited,8.15M,0.002,0.00%
+605,SUH.AX,Southern Hemisphere Mining,8.07M,0.033,0.00%
+606,FNT.AX,Frontier Resources,7.83M,0.016,0.00%
+607,AQC.AX,Australian Pacific Coal,7.83M,0.155,0.00%
+608,KFM.AX,Kingfisher Mining Ltd,7.74M,0.235,0.00%
+609,CAE.AX,Cannindah Resources Limited,7.73M,0.027,0.00%
+610,AWJ.AX,Auric Mining Limited,7.69M,0.19,0.00%
+611,THR.AX,Thor Mining Plc,7.69M,0.017,0.00%
+612,MOH.AX,Moho Resources NL,7.68M,0.082,0.00%
+613,SFM.AX,Santa Fe Minerals Ltd,7.65M,0.105,0.00%
+614,DAF.AX,Discovery Africa Limited,7.52M,0.037,0.00%
+615,RDS.AX,Redstone Resources,7.41M,0.014,0.00%
+616,MHK.AX,Metal Hawk Limited,7.39M,0.205,0.00%
+617,HHM.AX,Hampton Hill Mining NL,7.37M,0.025,0.00%
+618,GBR.AX,Great Boulder Resources,7.33M,0.039,0.00%
+619,MEG.AX,Megado Gold Limited,7.3M,0.18,0.00%
+620,ERW.AX,Errawarra Resources Ltd,7.08M,0.21,0.00%
+621,PAK.AX,Pacific American Holdings Limited,7.01M,0.022,0.00%
+622,AVW.AX,Avira Resources Limited,6.88M,0.005,0.00%
+623,MQR.AX,Marquee Resources Limited,6.71M,0.064,0.00%
+624,WSR.AX,Westar Resources Limited,6.64M,0.215,0.00%
+625,TMX.AX,Terrain Minerals,6.62M,0.009,0.00%
+626,CUL.AX,Cullen Resources,6.6M,0.022,0.00%
+627,CML.AX,Chase Mining Corporatation,6.6M,0.018,0.00%
+628,CDT.AX,Castle Minerals,6.59M,0.009,0.00%
+629,ODM.AX,Odin Metals Limited,6.49M,0.025,0.00%
+630,NMR.AX,Native Mineral Resources,6.48M,0.225,0.00%
+631,EFE.AX,Eastern Iron Limited,6.43M,0.012,0.00%
+632,VAR.AX,Variscan Mines,6.39M,0.03,0.00%
+633,APG.AX,Austpac Resources NL,6.33M,0.002,0.00%
+634,BDI.AX,Blina Minerals NL,6.27M,0.001,0.00%
+635,AHN.AX,Athena Resources,6.21M,0.02,0.00%
+636,GLA.AX,Gladiator Resources Ltd,6.14M,0.017,0.00%
+637,RNX.AX,Renegade Exploration Limited,6.04M,0.007,0.00%
+638,KOR.AX,Korab Resources,5.98M,0.018,0.00%
+639,MTB.AX,Mount Burgess Mining NL,5.94M,0.009,0.00%
+640,KGD.AX,Kula Gold,5.92M,0.038,0.00%
+641,RMG.AX,RMG Limited,5.87M,0.007,0.00%
+642,FIN.AX,Fin Resources Limited,5.83M,0.02,0.00%
+643,RMI.AX,Resource Mining Corporation,5.63M,0.019,0.00%
+644,ZMI.AX,Zinc of Ireland NL,5.62M,0.046,0.00%
+645,CMC.AX,China Magnesium Corporation,5.56M,0.011,0.00%
+646,G88.AX,Golden Mile Resources Ltd,5.54M,0.045,0.00%
+647,OKJ.AX,Oakajee Corporation,5.44M,0.06,0.00%
+648,SXX.AX,Southern Cross Exploration NL,5.39M,0.005,0.00%
+649,DMG.AX,Dragon Mountain Gold,5.27M,0.02,0.00%
+650,NXE.AX,New Energy Minerals,4.98M,0.027,0.00%
+651,AOA.AX,Ausmon Resources,4.76M,0.007,0.00%
+652,LML.AX,Lincoln Minerals,4.6M,0.008,0.00%
+653,CMD.AX,Cassius Mining Limited,4.6M,0.016,0.00%
+654,KP2.AX,Kore Potash Plc,4.22M,0.016,0.00%
+655,HGM.AX,High Grade Metals Limited,4.19M,0.0074,0.00%
+656,RAG.AX,Ragnar Metals Limited,3.6M,0.011,0.00%
+657,VIA.AX,ViaGold Rare Earth Resources Holdings Limited,3.5M,0.042,0.00%
+658,TRM.AX,Truscott Mining Corporation,3.45M,0.027,0.00%
+659,NIU.AX,Niuminco Group,3.11M,0.02,0.00%
+660,HOR.AX,Horseshoe Metals,3.05M,0.012,0.00%
+661,MDX.AX,Mindax Limited,2.96M,0.003,0.00%
+662,AXT.AX,Argo Exploration,2.83M,0.014,0.00%
+663,NMG.AX,NMG Corporation Limited,2.71M,0.16,0.00%
+664,CVS.AX,Cervantes Corporation,2.14M,0.004,0.00%
+665,RMT.AX,RMA Energy,2.1M,0.001,0.00%
+666,GCR.AX,Golden Cross Resources,1.93M,0.019,0.00%
+667,AKN.AX,Auking Mining Limited,1.87M,0.002,0.00%
+668,AHK.AX,Ark Mines,1.78M,0.034,0.00%
+669,SBU.AX,Siburan Resources,1.4M,0.002,0.00%
+670,ATM.AX,Aneka Tambang (Persero) Tbk,1.3M,1.00,0.00%
+671,CGM.AX,Cougar Metals NL,1.18M,0.001,0.00%
+672,PBX.AX,Pacific Bauxite Limited,"793,228",0,0.003,0.00%
+673,CDH.AX,ChongHerr Investments,"260,415",0,0.002,0.00%
+674,AQM.AX,Anglo American Capital PLC,N/A,0,0.00,0.00%
+675,CSM.AX,Cosmo Gold Limited,N/A,0,0.00,0.00%
+676,FRB.AX,Firebird Metals Limited,N/A,0,0.00,0.00%
+677,JNO.AX,Juno Minerals Limited,N/A,0,0.00,0.00%
+678,PGD.AX,Peregrine Gold Limited,N/A,0,0.00,0.00%
+679,SL1.AX,Symbol Mining Limited,N/A,0,0.00,0.00%
